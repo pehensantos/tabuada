@@ -1,0 +1,4 @@
+n = int(input("tabuada do:"))
+
+for num in range(1, 11):
+    print(num * n)
